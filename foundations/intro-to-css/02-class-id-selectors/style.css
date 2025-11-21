@@ -6,6 +6,17 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.third {
+#third,
+#forth {
     font-size: 24px;
+}
+
+#second {
+    color: rgb(0, 119, 255);
+    font-size: 36px;
+}
+
+#forth {
+    background-color: rgb(142, 204, 142);
+    font-weight: bold;
 }
