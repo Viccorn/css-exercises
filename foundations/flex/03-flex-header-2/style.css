@@ -55,9 +55,11 @@ ul {
 }
 
 .right-side {
-  margin-left: auto;
+
   display: flex;
   gap: 12px;
   flex-shrink: 0;
   align-items: center;
+  justify-content: flex-end;
+  flex-grow: 1;
 }
