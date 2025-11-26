@@ -27,11 +27,6 @@ img {
 }
 
 .item-box {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
   width: 200px;
   gap: 8px;
 }
